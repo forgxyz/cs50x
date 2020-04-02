@@ -31,3 +31,5 @@ All my CS50x problem sets are in the submit50 repo so this is a copyover of that
   - vigenere.py
   - crack.py
   - bleep.py
+- problem set 7:
+  - similarities.py
