@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quote
+{% endblock %}
+
+{% block main %}
+<!-- text field input for stock quote -->
+<form action="/quote" method="POST">
+    <div class="form-group">
+        <input autofocus class="form-control" name="symbol" placeholder="Enter ticker..." type="text">
+    </div>
+    <button class="btn btn-primary" type="submit">Search</button>
+</form>
+
+{% endblock %}

@@ -1,0 +1,28 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quote
+{% endblock %}
+
+{% block main %}
+<!-- display previously searched quote data -->
+{{ name}} <br>
+{{ price }} <br>
+{{ symbol }} <br>
+
+<!-- allow user to try to buy or sell the stock -->
+<form action="/buy" method="GET">
+    <button class="btn btn-primary" name="symbol" type="submit">Buy</button>
+</form>
+
+<br>
+Search for a new stock:<br>
+<!-- text field input for stock quote -->
+<form action="/quote" method="POST">
+    <div class="form-group">
+        <input autofocus class="form-control" name="symbol" placeholder="Enter ticker..." type="text">
+    </div>
+    <button class="btn btn-primary" type="submit">Search</button>
+</form>
+
+{% endblock %}

@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+
+{% block title %}
+History
+{% endblock %}
+
+{% block main %}
+<table class="table">
+    <thead>
+        <th>Buy or Sell</th>
+        <th>Symbol</th>
+        <th>Shares</th>
+        <th>Price</th>
+        <th>Value</th>
+        <th>Timestamp (UTC)</th>
+    </thead>
+    <tbody>
+        {{ table | safe }}
+    </tbody>
+</table>
+
+
+{% endblock %}

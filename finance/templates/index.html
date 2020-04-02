@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+
+{% block title %}
+welcome, {{ username }}!
+{% endblock %}
+
+{% block main %}
+<h1></h1>Welcome, {{ username }}!</h1><br>
+<br>
+<!-- table here with holdings and cash
+symbol | shares | latest price | total value
+RUN | 20 | $15.00 | $300
+CASH | 9700 | $1.00 | $9,700
+Total .............. $10,000
+-->
+
+<table class="table">
+    <thead>
+        <th>Symbol</th>
+        <th>Shares</th>
+        <th>Last Price</th>
+        <th>Value</th>
+    </thead>
+    <tbody>
+        {{ table | safe }}
+    </tbody>
+</table>
+
+
+{% endblock %}
