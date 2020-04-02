@@ -21,3 +21,13 @@ All my CS50x problem sets are in the submit50 repo so this is a copyover of that
   - recover.c
 - problem set 4:
   - dictionary.c
+- problem set 5:
+  - static html page, did not submit
+- problem set 6:
+  - mario.py
+  - cash.py
+  - credit.py
+  - caesar.py
+  - vigenere.py
+  - crack.py
+  - bleep.py
