@@ -32,4 +32,6 @@ All my CS50x problem sets are in the submit50 repo so this is a copyover of that
   - crack.py
   - bleep.py
 - problem set 7:
-  - similarities.py
+  - similarities
+- problem set 8:
+  - finance
