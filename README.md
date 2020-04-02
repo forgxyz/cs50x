@@ -9,3 +9,7 @@ All my CS50x problem sets are in the submit50 repo so this is a copyover of that
   - mario.c
   - cash.c
   - credit.c
+- problem set 2:
+  - caesar.c
+  - vigenere.c
+  - crack.c
