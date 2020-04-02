@@ -22,7 +22,7 @@ All my CS50x problem sets are in the submit50 repo so this is a copyover of that
 - problem set 4:
   - dictionary.c
 - problem set 5:
-  - static html page, did not submit
+  - basic static html site, did not submit
 - problem set 6:
   - mario.py
   - cash.py
