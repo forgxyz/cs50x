@@ -19,3 +19,5 @@ All my CS50x problem sets are in the submit50 repo so this is a copyover of that
   - whodunit.c
   - resize.c
   - recover.c
+- problem set 4:
+  - dictionary.c
