@@ -11,37 +11,18 @@ Introduction to the intellectual enterprises of computer science and the art of 
 ## Project Directory
 - [problem set 1](https://docs.cs50.net/2019/x/psets/1/index.html):
   - [my work](https://github.com/forgxyz/cs50x/tree/master/pset1)
-    - mario.c
-    - cash.c
-    - credit.c
 - [problem set 2](https://docs.cs50.net/2019/x/psets/2/index.html):
   - [my work](https://github.com/forgxyz/cs50x/tree/master/pset2)
-    - caesar.c
-    - vigenere.c
-    - crack.c
 - [problem set 3](https://docs.cs50.net/2019/x/psets/3/index.html):
   - [my work](https://github.com/forgxyz/cs50x/tree/master/pset3)
-    - whodunit.c
-    - resize.c
-    - recover.c
 - [problem set 4](https://docs.cs50.net/2019/x/psets/4/index.html):
   - [my work](https://github.com/forgxyz/cs50x/tree/master/pset4)
-    - dictionary.c
 - [problem set 5](https://docs.cs50.net/2019/x/psets/5/index.html):
-  - basic static html site, did not submit
+  - basic static html site, chose not to submit
 - [problem set 6](https://docs.cs50.net/2019/x/psets/6/index.html):
   - [my work](https://github.com/forgxyz/cs50x/tree/master/pset6)
-    - mario.py
-    - cash.py
-    - credit.py
-    - caesar.py
-    - vigenere.py
-    - crack.py
-    - bleep.py
 - [problem set 7](https://docs.cs50.net/2019/x/psets/7/index.html):
   - [my work](https://github.com/forgxyz/cs50x/tree/master/pset7)
-    - similarities
-      - similarities/input includes files for comparison to run through the app
+    - similarities/input includes files for comparison to run through the app
 - [problem set 8](https://docs.cs50.net/2019/x/psets/8/index.html):
   - [my work](https://github.com/forgxyz/cs50x/tree/master/pset8)
-    - finance
