@@ -26,3 +26,5 @@ Introduction to the intellectual enterprises of computer science and the art of 
     - similarities/input includes files for comparison to run through the app
 - [problem set 8](https://docs.cs50.net/2019/x/psets/8/index.html):
   - [my work](https://github.com/forgxyz/cs50x/tree/master/pset8)
+- [final project](https://docs.cs50.net/2019/x/project/project.html):
+  - [my work](https://github.com/forgxyz/cs50-final)
