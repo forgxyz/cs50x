@@ -1,9 +1,9 @@
-# cs50x
+# My Project Files
 ## [to home](https://jackforgash.com/)
 All my CS50x problem sets are in the submit50 repository so this is a copyover of that work from September and October 2019. Everything has been copied as submitted.  
 
 
-## Project Directory
+## Directory
 - [problem set 1](https://docs.cs50.net/2019/x/psets/1/index.html)
   - [my work](https://github.com/forgxyz/cs50x/tree/master/pset1)
 - [problem set 2](https://docs.cs50.net/2019/x/psets/2/index.html)
